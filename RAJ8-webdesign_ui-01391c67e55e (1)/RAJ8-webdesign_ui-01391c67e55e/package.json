@@ -29,7 +29,7 @@
     "emailjs-com": "^2.3.2",
     "font-awesome": "^4.7.0",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "magnific-popup": "^1.1.0",
     "mdbootstrap": "^4.7.6",
     "paypal-rest-sdk": "^1.8.1",
